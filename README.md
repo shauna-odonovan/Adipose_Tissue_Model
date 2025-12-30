@@ -10,4 +10,4 @@ contains a sample data file "sample data.mat". The sample data consists a Matlab
 containing a time series of simulated postprandial adipose tissue flux data and arterial
 metabolite concentrations in the format required for the implementation of the model.
 The scripts for parameters estimation and flux predictions are outlined in further detail in the file
-model_description.pdf.
+model_description.pdf. A description of the model parameters is provided in [PARAMETERS.md](PARAMETERS.md).
