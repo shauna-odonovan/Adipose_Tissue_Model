@@ -11,3 +11,6 @@ containing a time series of simulated postprandial adipose tissue flux data and 
 metabolite concentrations in the format required for the implementation of the model.
 The scripts for parameters estimation and flux predictions are outlined in further detail in the file
 model_description.pdf.
+
+
+See [PARAMETERS.md](PARAMETERS.md) for detailed biological explanations of the model parameters.
