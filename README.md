@@ -11,3 +11,9 @@ containing a time series of simulated postprandial adipose tissue flux data and 
 metabolite concentrations in the format required for the implementation of the model.
 The scripts for parameters estimation and flux predictions are outlined in further detail in the file
 model_description.pdf.
+
+## Model Parameters
+
+The model uses 14 parameters that are estimated from arteriovenous difference data. For detailed biological 
+explanations of each parameter, including their role in the model equations, initial values, and bounds, 
+see [PARAMETERS.md](PARAMETERS.md).
